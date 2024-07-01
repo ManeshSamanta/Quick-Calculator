@@ -1,0 +1,39 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family:sans-serif;
+}
+.text-center{
+    text-align: center;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.button{
+    padding: 20px;
+    font-size: x-large;
+    width: 66px;
+    margin: 0 3px;
+    border: none;
+    border-radius: 18px;
+    cursor: pointer;
+    background-color:rgb(218, 232, 232);
+    color: #000;
+}
+.row{
+    margin: 8px 0;
+}
+.input{
+    font-size: 23px;
+    margin: 0;
+    padding: 15px 2px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.bg-gre-cl{
+    background-color: rgb(149, 255, 43);
+    border: none;
+    color: #fff;
+}
